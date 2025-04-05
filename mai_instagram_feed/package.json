@@ -1,0 +1,6 @@
+{
+  "name": "mai",
+  "scripts": {
+    "dev": "next dev"
+  }
+}
